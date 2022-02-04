@@ -13,6 +13,9 @@ import sys
 # The function accepts INTEGER_ARRAY scores as parameter.
 #
 
+
+
+
 def breakingRecords(scores):
     # Write your code here
     m=scores[0]
