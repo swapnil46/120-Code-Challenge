@@ -6,6 +6,9 @@ import random
 import re
 import sys
 
+
+
+
 #
 # Complete the 'simpleArraySum' function below.
 #
