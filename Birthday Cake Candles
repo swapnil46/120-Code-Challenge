@@ -14,7 +14,7 @@ import sys
 
 
 def birthdayCakeCandles(candles):
-    # Write your code here
+   
     Max=max(candles)
     return candles.count(Max)
     
